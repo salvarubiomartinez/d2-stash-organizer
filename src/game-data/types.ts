@@ -97,6 +97,7 @@ export interface StatDescription {
   descVal?: number;
   descPos: string;
   descNeg: string;
+  display?: number;
   descAdditional?: string;
 }
 
@@ -136,4 +137,10 @@ export interface CharacterClass {
   name: string;
   skillsMod: string;
   classOnly: string;
+}
+
+export interface ModifierLocale  {
+  id: number,
+  Key: string,
+  enUS: string
 }

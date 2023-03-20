@@ -7,6 +7,7 @@ import {
   SKILLS,
   SkillTab,
   StatDescription,
+  MOD_LOCA
 } from "../../../game-data";
 
 /**
@@ -17,6 +18,7 @@ export function describeSingleMod(
   modInfo: StatDescription | null = ITEM_STATS[modifier.id]
 ) {
   if (!modInfo) return;
+
 
   let modValue = modifier.value;
   if (modInfo.stat.endsWith("perlevel")) {
@@ -30,11 +32,17 @@ export function describeSingleMod(
   }
 
   let modDesc = (modValue ?? 0) < 0 ? modInfo.descNeg : modInfo.descPos;
+
+  if (MOD_LOCA[modDesc]) 
+  {
+    modDesc = MOD_LOCA[modDesc].enUS;
+  }
+
   let valueDesc: string | undefined;
   let skill: Skill | undefined;
   let skillTab: SkillTab | undefined;
   switch (modInfo.descFunc) {
-    case 1:
+    case 19:
     case 6:
     case 12:
       valueDesc = (modValue ?? 0) < 0 ? `${modValue}` : `+${modValue}`;
@@ -83,9 +91,9 @@ export function describeSingleMod(
         .replace("%d", `${modValue}`)
         .replace("%s", `${SKILLS[modifier.param!].name}`);
       break;
-    case 19:
-      modDesc = modDesc.replace("%d", `${modValue}`);
-      break;
+    case 1:
+       modDesc = modDesc.replace("%d", `${modValue}`);
+       break;
     case 20:
       valueDesc = `${-modValue!}%`;
       break;
@@ -149,7 +157,11 @@ export function describeSingleMod(
 
   if (modDesc) {
     let fullDesc = "";
-    switch (modInfo.descVal) {
+    let display = modInfo.descVal;
+    if (modInfo.display === 2 )
+      display = 1
+      
+    switch (display) {
       case 1:
         fullDesc = `${valueDesc} ${modDesc}`;
         break;

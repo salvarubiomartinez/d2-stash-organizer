@@ -20,9 +20,10 @@ export async function itemStatsToJson() {
       descPriority: Number(line[37]),
       descFunc: Number(line[38]),
       descVal: Number(line[39]),
-      descPos: getString(line[40].trim()),
-      descNeg: getString(line[41].trim()),
+      descPos: line[40],
+      descNeg: line[41],
       descAdditional: getString(line[42].trim()),
+      display: Number(line[50])
     };
     if (
       (item.encode === 2 && (item.size !== 7 || item.paramSize !== 16)) ||
