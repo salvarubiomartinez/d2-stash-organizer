@@ -17,7 +17,7 @@ export async function gemsToJson(skills: Skill[]) {
       for (let i = 0; i < 3; i++) {
         const modifier = readModifierRange(
           line,
-          5 + 12 * index + 4 * i,
+          4 + 12 * index + 4 * i,
           skills
         );
         if (modifier) {

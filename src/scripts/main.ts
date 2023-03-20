@@ -12,8 +12,8 @@ import { ItemStorageType } from "./items/types/ItemLocation";
 import { parseD2rStash } from "./d2r-stash/parsing/parseD2rStash";
 import { saveD2rStash } from "./d2r-stash/saveD2rStash";
 
-const CHAR = "test/d2r/D2rSorc.d2s";
-const STASH = "test/d2r/SharedStashSoftCoreV2_pot_page1_2x2.d2i";
+const CHAR = "test/save/Seileen.d2s";
+const STASH = "test/save/SharedStashSoftCoreV2.d2i";
 const TEST_OUTPUT = "test/saved.sss";
 const DANGER_OUTPUT = STASH;
 

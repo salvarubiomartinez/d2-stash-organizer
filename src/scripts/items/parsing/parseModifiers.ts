@@ -20,7 +20,7 @@ const ENHANCED_DEF_STATS = [
 function parseModsList({ readInt }: BinaryStream, item: Item) {
   const mods: Modifier[] = [];
   let modId = readInt(9);
-  while (modId !== 511) {
+  while (ITEM_STATS[modId]) {
     const modInfo = ITEM_STATS[modId];
     if (!modInfo) {
       throw new ItemParsingError(item, `Unknown mod ${modId}`);

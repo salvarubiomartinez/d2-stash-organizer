@@ -58,8 +58,9 @@ export function describeSingleMod(
       modDesc = modDesc.replace("%d", `${100 / modValue!}`);
       break;
     case 13:
-      modDesc = CHAR_CLASSES[modifier.param!].skillsMod;
-      valueDesc = `+${modValue}`;
+      console.log("modifier: " + modifier.param)
+      modDesc = "saucisse" // CHAR_CLASSES[modifier.param!].skillsMod;
+      valueDesc = "0" // `+${modValue}`;
       break;
     case 14:
       skillTab = SKILL_TABS.find(({ id }) => id === modifier.param);
