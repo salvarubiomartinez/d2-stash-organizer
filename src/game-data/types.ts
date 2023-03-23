@@ -139,8 +139,8 @@ export interface CharacterClass {
   classOnly: string;
 }
 
-export interface ModifierLocale  {
-  id: number,
-  Key: string,
-  enUS: string
+export interface ModifierLocale {
+  id: number;
+  Key: string;
+  enUS: string;
 }

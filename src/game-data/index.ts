@@ -55,12 +55,11 @@ export const MAGIC_SUFFIXES: MagicAffix[] = magicSuffixes;
 export const RUNEWORDS: Runeword[] = runewords;
 export const GEMS: Record<string, Gem> = gems;
 //
-let locaRecord : Record<string,ModifierLocale> = {}
-for(let i = 0; i < modLoc.length; ++i)
-{
+let locaRecord: Record<string, ModifierLocale> = {};
+for (let i = 0; i < modLoc.length; ++i) {
   locaRecord[modLoc[i].Key] = modLoc[i];
 }
 
-export const MOD_LOCA: Record<string,ModifierLocale> = locaRecord;
+export const MOD_LOCA: Record<string, ModifierLocale> = locaRecord;
 
 export * from "./types";

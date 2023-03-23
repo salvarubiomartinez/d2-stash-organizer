@@ -7,7 +7,7 @@ import {
   SKILLS,
   SkillTab,
   StatDescription,
-  MOD_LOCA
+  MOD_LOCA,
 } from "../../../game-data";
 
 /**
@@ -18,7 +18,6 @@ export function describeSingleMod(
   modInfo: StatDescription | null = ITEM_STATS[modifier.id]
 ) {
   if (!modInfo) return;
-
 
   let modValue = modifier.value;
   if (modInfo.stat.endsWith("perlevel")) {
@@ -33,8 +32,7 @@ export function describeSingleMod(
 
   let modDesc = (modValue ?? 0) < 0 ? modInfo.descNeg : modInfo.descPos;
 
-  if (MOD_LOCA[modDesc]) 
-  {
+  if (MOD_LOCA[modDesc]) {
     modDesc = MOD_LOCA[modDesc].enUS;
   }
 
@@ -43,6 +41,11 @@ export function describeSingleMod(
   let skillTab: SkillTab | undefined;
   switch (modInfo.descFunc) {
     case 19:
+      modDesc = modDesc
+        .replace("%d", `${modValue}`)
+        .replace("%+d", (modValue ?? 0) < 0 ? `${modValue}` : `+${modValue}`)
+        .replace("%%", "%");
+
     case 6:
     case 12:
       valueDesc = (modValue ?? 0) < 0 ? `${modValue}` : `+${modValue}`;
@@ -66,9 +69,8 @@ export function describeSingleMod(
       modDesc = modDesc.replace("%d", `${100 / modValue!}`);
       break;
     case 13:
-      console.log("modifier: " + modifier.param)
-      modDesc = "saucisse" // CHAR_CLASSES[modifier.param!].skillsMod;
-      valueDesc = "0" // `+${modValue}`;
+      modDesc = "Broken"; // CHAR_CLASSES[modifier.param!].skillsMod;
+      valueDesc = "0"; // `+${modValue}`;
       break;
     case 14:
       skillTab = SKILL_TABS.find(({ id }) => id === modifier.param);
@@ -92,8 +94,8 @@ export function describeSingleMod(
         .replace("%s", `${SKILLS[modifier.param!].name}`);
       break;
     case 1:
-       modDesc = modDesc.replace("%d", `${modValue}`);
-       break;
+      modDesc = modDesc.replace("%d", `${modValue}`);
+      break;
     case 20:
       valueDesc = `${-modValue!}%`;
       break;
@@ -158,9 +160,8 @@ export function describeSingleMod(
   if (modDesc) {
     let fullDesc = "";
     let display = modInfo.descVal;
-    if (modInfo.display === 2 )
-      display = 1
-      
+    if (modInfo.display === 2) display = -1;
+
     switch (display) {
       case 1:
         fullDesc = `${valueDesc} ${modDesc}`;
