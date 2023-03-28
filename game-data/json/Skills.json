@@ -629,7 +629,7 @@
     "charClass": 4
   },
   {
-    "code": "Sword Mastery",
+    "code": "Blade Mastery",
     "name": "Sword Mastery",
     "charClass": 4
   },
@@ -1636,5 +1636,69 @@
   {
     "code": "Imp Fire Missile Ex",
     "name": "Imp Fire Missile Ex"
+  },
+  {
+    "code": "Interact",
+    "name": "SkillNameInteract"
+  },
+  {
+    "code": "Loot",
+    "name": "SkillNameLoot"
+  },
+  {
+    "code": "TownPortal",
+    "name": "Scroll of Townportal"
+  },
+  {
+    "code": "EmoteWheel",
+    "name": "SkillNameEmoteWheel"
+  },
+  {
+    "code": "SwapWeapons",
+    "name": "SkillNameSwapWeapons"
+  },
+  {
+    "code": "Map",
+    "name": "SkillNameMap"
+  },
+  {
+    "code": "ShowItems",
+    "name": "SkillNameShowItems"
+  },
+  {
+    "code": "RunToggle",
+    "name": "SkillNameRunToggle"
+  },
+  {
+    "code": "MonHolyFreeze",
+    "name": "MonHolyFreeze"
+  },
+  {
+    "code": "MonLeap",
+    "name": "MonLeap"
+  },
+  {
+    "code": "MonLeapAttack",
+    "name": "MonLeapAttack"
+  },
+  {
+    "code": "MonHolyFire",
+    "name": "MonHolyFire"
+  },
+  {
+    "code": "MonHolyShock",
+    "name": "MonHolyShock"
+  },
+  {
+    "code": "CubeLoot",
+    "name": "SkillNameCubeLoot"
+  },
+  {
+    "code": "Mark of the Bear",
+    "name": "SkillnameMetamorphosisBear"
+  },
+  {
+    "code": "Mark of the Wolf",
+    "name": "SkillnameMetamorphosisWolf"
   }
 ]

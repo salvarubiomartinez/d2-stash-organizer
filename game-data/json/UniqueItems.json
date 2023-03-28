@@ -18102,5 +18102,125 @@
         "max": 30
       }
     ]
+  },
+  {
+    "name": "Cold Rupture",
+    "enabled": false,
+    "code": "cm3",
+    "qlevel": 69,
+    "modifiers": [
+      {
+        "prop": "pierce-immunity-cold",
+        "param": 0,
+        "min": 300,
+        "max": 300
+      },
+      {
+        "prop": "res-cold",
+        "param": 0,
+        "min": -90,
+        "max": -70
+      }
+    ]
+  },
+  {
+    "name": "Flame Rift",
+    "enabled": false,
+    "code": "cm3",
+    "qlevel": 69,
+    "modifiers": [
+      {
+        "prop": "pierce-immunity-fire",
+        "param": 0,
+        "min": 300,
+        "max": 300
+      },
+      {
+        "prop": "res-fire",
+        "param": 0,
+        "min": -90,
+        "max": -70
+      }
+    ]
+  },
+  {
+    "name": "Crack of the Heavens",
+    "enabled": false,
+    "code": "cm3",
+    "qlevel": 69,
+    "modifiers": [
+      {
+        "prop": "pierce-immunity-light",
+        "param": 0,
+        "min": 300,
+        "max": 300
+      },
+      {
+        "prop": "res-ltng",
+        "param": 0,
+        "min": -90,
+        "max": -70
+      }
+    ]
+  },
+  {
+    "name": "Rotting Fissure",
+    "enabled": false,
+    "code": "cm3",
+    "qlevel": 69,
+    "modifiers": [
+      {
+        "prop": "pierce-immunity-poison",
+        "param": 0,
+        "min": 300,
+        "max": 300
+      },
+      {
+        "prop": "res-pois",
+        "param": 0,
+        "min": -90,
+        "max": -70
+      }
+    ]
+  },
+  {
+    "name": "Bone Break",
+    "enabled": false,
+    "code": "cm3",
+    "qlevel": 69,
+    "modifiers": [
+      {
+        "prop": "pierce-immunity-damage",
+        "param": 0,
+        "min": 300,
+        "max": 300
+      },
+      {
+        "prop": "red-dmg%",
+        "param": 0,
+        "min": -20,
+        "max": -10
+      }
+    ]
+  },
+  {
+    "name": "Black Cleft",
+    "enabled": false,
+    "code": "cm3",
+    "qlevel": 69,
+    "modifiers": [
+      {
+        "prop": "pierce-immunity-magic",
+        "param": 0,
+        "min": 300,
+        "max": 300
+      },
+      {
+        "prop": "res-mag",
+        "param": 0,
+        "min": -65,
+        "max": -45
+      }
+    ]
   }
 ]

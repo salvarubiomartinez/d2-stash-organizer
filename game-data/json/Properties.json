@@ -575,7 +575,6 @@
     "stats": [
       {
         "stat": "item_addclassskills",
-        "param": 0,
         "type": "other"
       }
     ]
@@ -584,7 +583,6 @@
     "stats": [
       {
         "stat": "item_addclassskills",
-        "param": 3,
         "type": "other"
       }
     ]
@@ -593,7 +591,6 @@
     "stats": [
       {
         "stat": "item_addclassskills",
-        "param": 2,
         "type": "other"
       }
     ]
@@ -602,7 +599,6 @@
     "stats": [
       {
         "stat": "item_addclassskills",
-        "param": 1,
         "type": "other"
       }
     ]
@@ -611,7 +607,6 @@
     "stats": [
       {
         "stat": "item_addclassskills",
-        "param": 4,
         "type": "other"
       }
     ]
@@ -636,6 +631,7 @@
     "stats": [
       {
         "stat": "item_lightcolor",
+        "param": 1,
         "type": "other"
       }
     ]
@@ -868,7 +864,6 @@
     "stats": [
       {
         "stat": "item_elemskill",
-        "param": 1,
         "type": "other"
       }
     ]
@@ -1013,7 +1008,6 @@
     "stats": [
       {
         "stat": "item_addclassskills",
-        "param": 5,
         "type": "other"
       }
     ]
@@ -1022,7 +1016,6 @@
     "stats": [
       {
         "stat": "item_addclassskills",
-        "param": 6,
         "type": "other"
       }
     ]
@@ -2145,7 +2138,70 @@
     "stats": [
       {
         "stat": "item_addclassskills",
-        "param": 3,
+        "type": "other"
+      }
+    ]
+  },
+  "noconsume": {
+    "stats": [
+      {
+        "stat": "item_noconsume",
+        "type": "other"
+      }
+    ]
+  },
+  "pierce-immunity-cold": {
+    "stats": [
+      {
+        "stat": "item_pierce_cold_immunity",
+        "type": "other"
+      }
+    ]
+  },
+  "pierce-immunity-fire": {
+    "stats": [
+      {
+        "stat": "item_pierce_fire_immunity",
+        "type": "other"
+      }
+    ]
+  },
+  "pierce-immunity-light": {
+    "stats": [
+      {
+        "stat": "item_pierce_light_immunity",
+        "type": "other"
+      }
+    ]
+  },
+  "pierce-immunity-poison": {
+    "stats": [
+      {
+        "stat": "item_pierce_poison_immunity",
+        "type": "other"
+      }
+    ]
+  },
+  "pierce-immunity-damage": {
+    "stats": [
+      {
+        "stat": "item_pierce_damage_immunity",
+        "type": "other"
+      }
+    ]
+  },
+  "pierce-immunity-magic": {
+    "stats": [
+      {
+        "stat": "item_pierce_magic_immunity",
+        "type": "other"
+      }
+    ]
+  },
+  "charge-noconsume": {
+    "stats": [
+      {
+        "stat": "item_charge_noconsume",
         "type": "other"
       }
     ]

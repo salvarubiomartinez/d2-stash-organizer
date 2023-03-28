@@ -7,11 +7,12 @@
     "bias": 32,
     "paramSize": 0,
     "descPriority": 67,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "to Strength",
-    "descNeg": "to Strength",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1a",
+    "descNeg": "ModStr1a",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "energy",
@@ -21,11 +22,12 @@
     "bias": 32,
     "paramSize": 0,
     "descPriority": 61,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "to Energy",
-    "descNeg": "to Energy",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1d",
+    "descNeg": "ModStr1d",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "dexterity",
@@ -35,11 +37,12 @@
     "bias": 32,
     "paramSize": 0,
     "descPriority": 65,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "to Dexterity",
-    "descNeg": "to Dexterity",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1b",
+    "descNeg": "ModStr1b",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "vitality",
@@ -49,11 +52,12 @@
     "bias": 32,
     "paramSize": 0,
     "descPriority": 63,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "to Vitality",
-    "descNeg": "to Vitality",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1c",
+    "descNeg": "ModStr1c",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "statpts",
@@ -67,7 +71,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "newskills",
@@ -81,7 +86,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "hitpoints",
@@ -95,7 +101,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "maxhp",
@@ -105,11 +112,12 @@
     "bias": 32,
     "paramSize": 0,
     "descPriority": 59,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "to Life",
-    "descNeg": "to Life",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1u",
+    "descNeg": "ModStr1u",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "mana",
@@ -123,7 +131,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "maxmana",
@@ -133,11 +142,12 @@
     "bias": 32,
     "paramSize": 0,
     "descPriority": 55,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "to Mana",
-    "descNeg": "to Mana",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1e",
+    "descNeg": "ModStr1e",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "stamina",
@@ -151,7 +161,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "maxstamina",
@@ -161,11 +172,12 @@
     "bias": 32,
     "paramSize": 0,
     "descPriority": 51,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "Maximum Stamina",
-    "descNeg": "Maximum Stamina",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr5d",
+    "descNeg": "ModStr5d",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "level",
@@ -179,7 +191,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "experience",
@@ -193,7 +206,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "gold",
@@ -207,7 +221,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "goldbank",
@@ -221,7 +236,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_armor_percent",
@@ -230,11 +246,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 74,
-    "descFunc": 4,
-    "descVal": 1,
-    "descPos": "Enhanced Defense",
-    "descNeg": "Enhanced Defense",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "Modstr2v",
+    "descNeg": "Modstr2v",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_maxdamage_percent",
@@ -243,11 +260,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 129,
-    "descFunc": 3,
+    "descFunc": 19,
     "descVal": 0,
-    "descPos": "Enhanced Maximum Damage",
-    "descNeg": "Enhanced Maximum Damage",
+    "descPos": "ModStr2j",
+    "descNeg": "ModStr2j",
     "descAdditional": "",
+    "display": 0,
     "followedBy": 18
   },
   {
@@ -257,11 +275,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 130,
-    "descFunc": 3,
+    "descFunc": 19,
     "descVal": 0,
-    "descPos": "Enhanced Minimum Damage",
-    "descNeg": "Enhanced Minimum Damage",
-    "descAdditional": ""
+    "descPos": "ModStr2k",
+    "descNeg": "ModStr2k",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "tohit",
@@ -270,11 +289,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 115,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "to Attack Rating",
-    "descNeg": "to Attack Rating",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1h",
+    "descNeg": "ModStr1h",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "toblock",
@@ -283,11 +303,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 134,
-    "descFunc": 2,
-    "descVal": 1,
-    "descPos": "Increased Chance of Blocking",
-    "descNeg": "Increased Chance of Blocking",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr3g",
+    "descNeg": "ModStr3g",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "mindamage",
@@ -296,11 +317,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 127,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "to Minimum Damage",
-    "descNeg": "to Minimum Damage",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1g",
+    "descNeg": "ModStr1g",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "maxdamage",
@@ -309,11 +331,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 126,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "to Maximum Damage",
-    "descNeg": "to Maximum Damage",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1f",
+    "descNeg": "ModStr1f",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "secondary_mindamage",
@@ -322,11 +345,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 124,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "to Minimum Damage",
-    "descNeg": "to Minimum Damage",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1g",
+    "descNeg": "ModStr1g",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "secondary_maxdamage",
@@ -335,11 +359,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 123,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "to Maximum Damage",
-    "descNeg": "to Maximum Damage",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1f",
+    "descNeg": "ModStr1f",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "damagepercent",
@@ -352,7 +377,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "manarecovery",
@@ -365,7 +391,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "manarecoverybonus",
@@ -374,11 +401,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 52,
-    "descFunc": 2,
-    "descVal": 2,
-    "descPos": "Regenerate Mana",
-    "descNeg": "Regenerate Mana",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr4g",
+    "descNeg": "ModStr4g",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "staminarecoverybonus",
@@ -387,11 +415,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 48,
-    "descFunc": 2,
-    "descVal": 2,
-    "descPos": "Heal Stamina Plus",
-    "descNeg": "Heal Stamina Plus",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr3v",
+    "descNeg": "ModStr3v",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "lastexp",
@@ -404,7 +433,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "nextexp",
@@ -417,7 +447,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "armorclass",
@@ -426,11 +457,12 @@
     "bias": 10,
     "paramSize": 0,
     "descPriority": 71,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "Defense",
-    "descNeg": "Defense",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1i",
+    "descNeg": "ModStr1i",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "armorclass_vs_missile",
@@ -439,11 +471,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 69,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "Defense vs. Missile",
-    "descNeg": "Defense vs. Missile",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr6a",
+    "descNeg": "ModStr6a",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "armorclass_vs_hth",
@@ -452,11 +485,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 70,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "Defense vs. Melee",
-    "descNeg": "Defense vs. Melee",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr6b",
+    "descNeg": "ModStr6b",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "normal_damage_reduction",
@@ -465,11 +499,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 22,
-    "descFunc": 3,
-    "descVal": 2,
-    "descPos": "Damage Reduced by",
-    "descNeg": "Damage Reduced by",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr2u",
+    "descNeg": "ModStr2u",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "magic_damage_reduction",
@@ -478,37 +513,40 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 21,
-    "descFunc": 3,
-    "descVal": 2,
-    "descPos": "Magic Damage Reduced by",
-    "descNeg": "Magic Damage Reduced by",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr2t",
+    "descNeg": "ModStr2t",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "damageresist",
     "encode": 0,
-    "size": 8,
-    "bias": 0,
+    "size": 9,
+    "bias": 200,
     "paramSize": 0,
     "descPriority": 22,
-    "descFunc": 2,
-    "descVal": 2,
-    "descPos": "Damage Reduced by",
-    "descNeg": "Damage Reduced by",
-    "descAdditional": ""
+    "descFunc": 29,
+    "descVal": 0,
+    "descPos": "ModStr2uPercent",
+    "descNeg": "ModStr2uPercentNegative",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "magicresist",
     "encode": 0,
-    "size": 8,
-    "bias": 0,
+    "size": 9,
+    "bias": 200,
     "paramSize": 0,
     "descPriority": 41,
-    "descFunc": 4,
-    "descVal": 2,
-    "descPos": "Magic Resist",
-    "descNeg": "Magic Resist",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1m",
+    "descNeg": "ModStr1m",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "maxmagicresist",
@@ -517,24 +555,26 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 46,
-    "descFunc": 4,
-    "descVal": 1,
-    "descPos": "to Maximum Magic Resist",
-    "descNeg": "to Maximum Magic Resist",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr5x",
+    "descNeg": "ModStr5x",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "fireresist",
     "encode": 0,
-    "size": 8,
-    "bias": 50,
+    "size": 9,
+    "bias": 200,
     "paramSize": 0,
     "descPriority": 36,
-    "descFunc": 4,
-    "descVal": 2,
-    "descPos": "Fire Resist",
-    "descNeg": "Fire Resist",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1j",
+    "descNeg": "ModStr1j",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "maxfireresist",
@@ -543,24 +583,26 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 42,
-    "descFunc": 4,
-    "descVal": 1,
-    "descPos": "to Maximum Fire Resist",
-    "descNeg": "to Maximum Fire Resist",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr5u",
+    "descNeg": "ModStr5u",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "lightresist",
     "encode": 0,
-    "size": 8,
-    "bias": 50,
+    "size": 9,
+    "bias": 200,
     "paramSize": 0,
     "descPriority": 38,
-    "descFunc": 4,
-    "descVal": 2,
-    "descPos": "Lightning Resist",
-    "descNeg": "Lightning Resist",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1l",
+    "descNeg": "ModStr1l",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "maxlightresist",
@@ -569,24 +611,26 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 43,
-    "descFunc": 4,
-    "descVal": 1,
-    "descPos": "to Maximum Lightning Resist",
-    "descNeg": "to Maximum Lightning Resist",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr5w",
+    "descNeg": "ModStr5w",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "coldresist",
     "encode": 0,
-    "size": 8,
-    "bias": 50,
+    "size": 9,
+    "bias": 200,
     "paramSize": 0,
     "descPriority": 40,
-    "descFunc": 4,
-    "descVal": 2,
-    "descPos": "Cold Resist",
-    "descNeg": "Cold Resist",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1k",
+    "descNeg": "ModStr1k",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "maxcoldresist",
@@ -595,24 +639,26 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 44,
-    "descFunc": 4,
-    "descVal": 1,
-    "descPos": "to Maximum Cold Resist",
-    "descNeg": "to Maximum Cold Resist",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr5v",
+    "descNeg": "ModStr5v",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "poisonresist",
     "encode": 0,
-    "size": 8,
-    "bias": 50,
+    "size": 9,
+    "bias": 200,
     "paramSize": 0,
     "descPriority": 34,
-    "descFunc": 4,
-    "descVal": 2,
-    "descPos": "Poison Resist",
-    "descNeg": "Poison Resist",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1n",
+    "descNeg": "ModStr1n",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "maxpoisonresist",
@@ -621,11 +667,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 45,
-    "descFunc": 4,
-    "descVal": 1,
-    "descPos": "to Maximum Poison Resist",
-    "descNeg": "to Maximum Poison Resist",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr5y",
+    "descNeg": "ModStr5y",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "damageaura",
@@ -638,7 +685,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "firemindam",
@@ -647,11 +695,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 102,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "to Minimum Fire Damage",
-    "descNeg": "to Minimum Fire Damage",
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1p",
+    "descNeg": "ModStr1p",
     "descAdditional": "",
+    "display": 0,
     "followedBy": 49
   },
   {
@@ -661,11 +710,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 101,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "to Maximum Fire Damage",
-    "descNeg": "to Maximum Fire Damage",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1o",
+    "descNeg": "ModStr1o",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "lightmindam",
@@ -674,11 +724,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 99,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "to Minimum Lightning Damage",
-    "descNeg": "to Minimum Lightning Damage",
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1r",
+    "descNeg": "ModStr1r",
     "descAdditional": "",
+    "display": 0,
     "followedBy": 51
   },
   {
@@ -688,11 +739,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 98,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "to Maximum Lightning Damage",
-    "descNeg": "to Maximum Lightning Damage",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1q",
+    "descNeg": "ModStr1q",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "magicmindam",
@@ -701,11 +753,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 104,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "+%d magic damage",
-    "descNeg": "+%d magic damage",
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "strModMagicDamage",
+    "descNeg": "strModMagicDamage",
     "descAdditional": "",
+    "display": 0,
     "followedBy": 53
   },
   {
@@ -715,11 +768,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 103,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "+%d magic damage",
-    "descNeg": "+%d magic damage",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "strModMagicDamage",
+    "descNeg": "strModMagicDamage",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "coldmindam",
@@ -728,11 +782,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 96,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "to Minimum Cold Damage",
-    "descNeg": "to Minimum Cold Damage",
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1t",
+    "descNeg": "ModStr1t",
     "descAdditional": "",
+    "display": 0,
     "followedBy": 55
   },
   {
@@ -742,11 +797,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 95,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "to Maximum Cold Damage",
-    "descNeg": "to Maximum Cold Damage",
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1s",
+    "descNeg": "ModStr1s",
     "descAdditional": "",
+    "display": 0,
     "followedBy": 56
   },
   {
@@ -760,7 +816,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "poisonmindam",
@@ -769,11 +826,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 92,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "to Minimum Poison Damage",
-    "descNeg": "to Minimum Poison Damage",
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr4i",
+    "descNeg": "ModStr4i",
     "descAdditional": "",
+    "display": 0,
     "followedBy": 58
   },
   {
@@ -783,11 +841,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 91,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "to Maximum Poison Damage",
-    "descNeg": "to Maximum Poison Damage",
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr4h",
+    "descNeg": "ModStr4h",
     "descAdditional": "",
+    "display": 0,
     "followedBy": 59
   },
   {
@@ -801,7 +860,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "lifedrainmindam",
@@ -810,11 +870,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 88,
-    "descFunc": 2,
-    "descVal": 1,
-    "descPos": "Life stolen per hit",
-    "descNeg": "Life stolen per hit",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr2z",
+    "descNeg": "ModStr2z",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "lifedrainmaxdam",
@@ -827,7 +888,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "manadrainmindam",
@@ -836,11 +898,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 89,
-    "descFunc": 2,
-    "descVal": 1,
-    "descPos": "Mana stolen per hit",
-    "descNeg": "Mana stolen per hit",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr2y",
+    "descNeg": "ModStr2y",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "manadrainmaxdam",
@@ -853,7 +916,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "stamdrainmindam",
@@ -866,7 +930,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "stamdrainmaxdam",
@@ -879,7 +944,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "stunlength",
@@ -892,7 +958,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "velocitypercent",
@@ -905,7 +972,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "attackrate",
@@ -918,7 +986,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "other_animrate",
@@ -931,7 +1000,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "quantity",
@@ -944,7 +1014,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "value",
@@ -957,7 +1028,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "durability",
@@ -970,7 +1042,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "maxdurability",
@@ -983,7 +1056,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "hpregen",
@@ -992,11 +1066,12 @@
     "bias": 30,
     "paramSize": 0,
     "descPriority": 56,
-    "descFunc": 1,
-    "descVal": 2,
-    "descPos": "Replenish Life",
-    "descNeg": "Drain Life",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr2l",
+    "descNeg": "ModStr2w",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_maxdurability_percent",
@@ -1005,11 +1080,12 @@
     "bias": 20,
     "paramSize": 0,
     "descPriority": 3,
-    "descFunc": 2,
-    "descVal": 2,
-    "descPos": "Increase Maximum Durability",
-    "descNeg": "Increase Maximum Durability",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr2i",
+    "descNeg": "ModStr2i",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_maxhp_percent",
@@ -1018,11 +1094,12 @@
     "bias": 10,
     "paramSize": 0,
     "descPriority": 58,
-    "descFunc": 2,
-    "descVal": 2,
-    "descPos": "Increase Maximum Life",
-    "descNeg": "Increase Maximum Life",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr2g",
+    "descNeg": "ModStr2g",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_maxmana_percent",
@@ -1031,11 +1108,12 @@
     "bias": 10,
     "paramSize": 0,
     "descPriority": 54,
-    "descFunc": 2,
-    "descVal": 2,
-    "descPos": "Increase Maximum Mana",
-    "descNeg": "Increase Maximum Mana",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr2h",
+    "descNeg": "ModStr2h",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_attackertakesdamage",
@@ -1044,11 +1122,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 13,
-    "descFunc": 3,
-    "descVal": 2,
-    "descPos": "Attacker Takes Damage of",
-    "descNeg": "Attacker Takes Damage of",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1v",
+    "descNeg": "ModStr1v",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_goldbonus",
@@ -1057,11 +1136,12 @@
     "bias": 100,
     "paramSize": 0,
     "descPriority": 10,
-    "descFunc": 2,
-    "descVal": 1,
-    "descPos": "Extra Gold from Monsters",
-    "descNeg": "Extra Gold from Monsters",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1w",
+    "descNeg": "ModStr1w",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_magicbonus",
@@ -1070,11 +1150,12 @@
     "bias": 100,
     "paramSize": 0,
     "descPriority": 8,
-    "descFunc": 2,
-    "descVal": 1,
-    "descPos": "Better Chance of Getting Magic Items",
-    "descNeg": "Better Chance of Getting Magic Items",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1x",
+    "descNeg": "ModStr1x",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_knockback",
@@ -1083,11 +1164,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 76,
-    "descFunc": 3,
+    "descFunc": 19,
     "descVal": 0,
-    "descPos": "Knockback",
-    "descNeg": "Knockback",
-    "descAdditional": ""
+    "descPos": "ModStr1y",
+    "descNeg": "ModStr1y",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_timeduration",
@@ -1100,7 +1182,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_addclassskills",
@@ -1110,10 +1193,11 @@
     "paramSize": 3,
     "descPriority": 150,
     "descFunc": 13,
-    "descVal": 1,
-    "descPos": "to Amazon Skill Levels",
-    "descNeg": "to Amazon Skill Levels",
-    "descAdditional": ""
+    "descVal": 0,
+    "descPos": "ModStr3a",
+    "descNeg": "ModStr3a",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "unsentparam1",
@@ -1126,7 +1210,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_addexperience",
@@ -1135,11 +1220,12 @@
     "bias": 50,
     "paramSize": 0,
     "descPriority": 11,
-    "descFunc": 4,
-    "descVal": 1,
-    "descPos": "to Experience Gained",
-    "descNeg": "to Experience Gained",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "Moditem2ExpG",
+    "descNeg": "Moditem2ExpG",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_healafterkill",
@@ -1148,11 +1234,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 16,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "Life after each Kill",
-    "descNeg": "Life after each Kill",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModitemHPaK",
+    "descNeg": "ModitemHPaK",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_reducedprices",
@@ -1161,11 +1248,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 8,
-    "descFunc": 2,
-    "descVal": 2,
-    "descPos": "Reduces all Vendor Prices",
-    "descNeg": "Reduces all Vendor Prices",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModitemRedVendP",
+    "descNeg": "ModitemRedVendP",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_doubleherbduration",
@@ -1178,7 +1266,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_lightradius",
@@ -1187,11 +1276,12 @@
     "bias": 4,
     "paramSize": 0,
     "descPriority": 6,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "to Light Radius",
-    "descNeg": "to Light Radius",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr3f",
+    "descNeg": "ModStr3f",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_lightcolor",
@@ -1204,7 +1294,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_req_percent",
@@ -1213,11 +1304,12 @@
     "bias": 100,
     "paramSize": 0,
     "descPriority": 0,
-    "descFunc": 4,
-    "descVal": 2,
-    "descPos": "Requirements",
-    "descNeg": "Requirements",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr3h",
+    "descNeg": "ModStr3h",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_levelreq",
@@ -1230,7 +1322,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_fasterattackrate",
@@ -1239,11 +1332,12 @@
     "bias": 20,
     "paramSize": 0,
     "descPriority": 145,
-    "descFunc": 4,
-    "descVal": 1,
-    "descPos": "Increased Attack Speed",
-    "descNeg": "Increased Attack Speed",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr4m",
+    "descNeg": "ModStr4m",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_levelreqpct",
@@ -1256,7 +1350,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "lastblockframe",
@@ -1269,7 +1364,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_fastermovevelocity",
@@ -1278,11 +1374,12 @@
     "bias": 20,
     "paramSize": 0,
     "descPriority": 148,
-    "descFunc": 4,
-    "descVal": 1,
-    "descPos": "Faster Run/Walk",
-    "descNeg": "Faster Run/Walk",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr4s",
+    "descNeg": "ModStr4s",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_nonclassskill",
@@ -1293,9 +1390,10 @@
     "descPriority": 81,
     "descFunc": 28,
     "descVal": 0,
-    "descPos": "",
-    "descNeg": "",
-    "descAdditional": ""
+    "descPos": "ItemModifierNonClassSkill",
+    "descNeg": "ItemModifierNonClassSkill",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "state",
@@ -1308,7 +1406,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_fastergethitrate",
@@ -1317,11 +1416,12 @@
     "bias": 20,
     "paramSize": 0,
     "descPriority": 139,
-    "descFunc": 4,
-    "descVal": 1,
-    "descPos": "Faster Hit Recovery",
-    "descNeg": "Faster Hit Recovery",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr4p",
+    "descNeg": "ModStr4p",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "monster_playercount",
@@ -1334,7 +1434,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "skill_poison_override_length",
@@ -1347,7 +1448,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_fasterblockrate",
@@ -1356,11 +1458,12 @@
     "bias": 20,
     "paramSize": 0,
     "descPriority": 136,
-    "descFunc": 4,
-    "descVal": 1,
-    "descPos": "Faster Block Rate",
-    "descNeg": "Faster Block Rate",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr4y",
+    "descNeg": "ModStr4y",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "skill_bypass_undead",
@@ -1373,7 +1476,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "skill_bypass_demons",
@@ -1386,7 +1490,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_fastercastrate",
@@ -1395,11 +1500,12 @@
     "bias": 20,
     "paramSize": 0,
     "descPriority": 142,
-    "descFunc": 4,
-    "descVal": 1,
-    "descPos": "Faster Cast Rate",
-    "descNeg": "Faster Cast Rate",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr4v",
+    "descNeg": "ModStr4v",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "skill_bypass_beasts",
@@ -1412,7 +1518,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_singleskill",
@@ -1423,9 +1530,10 @@
     "descPriority": 81,
     "descFunc": 27,
     "descVal": 0,
-    "descPos": "",
-    "descNeg": "",
-    "descAdditional": ""
+    "descPos": "ItemModifierClassSkill",
+    "descNeg": "ItemModifierClassSkill",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_restinpeace",
@@ -1434,11 +1542,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 81,
-    "descFunc": 3,
+    "descFunc": 19,
     "descVal": 0,
-    "descPos": "Slain Monsters Rest in Peace",
-    "descNeg": "Slain Monsters Rest in Peace",
-    "descAdditional": ""
+    "descPos": "ModitemSMRIP",
+    "descNeg": "ModitemSMRIP",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "curse_resistance",
@@ -1451,7 +1560,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_poisonlengthresist",
@@ -1460,11 +1570,12 @@
     "bias": 20,
     "paramSize": 0,
     "descPriority": 18,
-    "descFunc": 2,
-    "descVal": 2,
-    "descPos": "Poison Length Reduced by",
-    "descNeg": "Poison Length Reduced by",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr3r",
+    "descNeg": "ModStr3r",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_normaldamage",
@@ -1473,11 +1584,12 @@
     "bias": 20,
     "paramSize": 0,
     "descPriority": 122,
-    "descFunc": 1,
-    "descVal": 2,
-    "descPos": "Damage",
-    "descNeg": "Damage",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr5b",
+    "descNeg": "ModStr5b",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_howl",
@@ -1487,10 +1599,11 @@
     "paramSize": 0,
     "descPriority": 79,
     "descFunc": 5,
-    "descVal": 2,
-    "descPos": "Hit Causes Monster to Flee",
-    "descNeg": "Hit Causes Monster to Flee",
-    "descAdditional": ""
+    "descVal": 0,
+    "descPos": "ModStr3u",
+    "descNeg": "ModStr3u",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_stupidity",
@@ -1501,9 +1614,10 @@
     "descPriority": 80,
     "descFunc": 12,
     "descVal": 2,
-    "descPos": "Hit Blinds Target",
-    "descNeg": "Hit Blinds Target",
-    "descAdditional": ""
+    "descPos": "ModStr6d",
+    "descNeg": "ModStr6d",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_damagetomana",
@@ -1512,11 +1626,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 11,
-    "descFunc": 2,
-    "descVal": 1,
-    "descPos": "Damage Taken Goes To Mana",
-    "descNeg": "Damage Taken Goes To Mana",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr3w",
+    "descNeg": "ModStr3w",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_ignoretargetac",
@@ -1525,11 +1640,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 119,
-    "descFunc": 3,
+    "descFunc": 19,
     "descVal": 0,
-    "descPos": "Ignore Target's Defense",
-    "descNeg": "Ignore Target's Defense",
-    "descAdditional": ""
+    "descPos": "ModStr3y",
+    "descNeg": "ModStr3y",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_fractionaltargetac",
@@ -1538,11 +1654,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 118,
-    "descFunc": 20,
-    "descVal": 1,
-    "descPos": "Target Defense",
-    "descNeg": "Target Defense",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr5o",
+    "descNeg": "ModStr5o",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_preventheal",
@@ -1551,11 +1668,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 81,
-    "descFunc": 3,
+    "descFunc": 19,
     "descVal": 0,
-    "descPos": "Prevent Monster Heal",
-    "descNeg": "Prevent Monster Heal",
-    "descAdditional": ""
+    "descPos": "ModStr4a",
+    "descNeg": "ModStr4a",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_halffreezeduration",
@@ -1564,11 +1682,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 19,
-    "descFunc": 3,
+    "descFunc": 19,
     "descVal": 0,
-    "descPos": "Half Freeze Duration",
-    "descNeg": "Half Freeze Duration",
-    "descAdditional": ""
+    "descPos": "ModStr4b",
+    "descNeg": "ModStr4b",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_tohit_percent",
@@ -1577,11 +1696,12 @@
     "bias": 20,
     "paramSize": 0,
     "descPriority": 117,
-    "descFunc": 2,
-    "descVal": 1,
-    "descPos": "Bonus to Attack Rating",
-    "descNeg": "Bonus to Attack Rating",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr4c",
+    "descNeg": "ModStr4c",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_damagetargetac",
@@ -1590,11 +1710,12 @@
     "bias": 128,
     "paramSize": 0,
     "descPriority": 75,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "to Monster Defense Per Hit",
-    "descNeg": "to Monster Defense Per Hit",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr4d",
+    "descNeg": "ModStr4d",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_demondamage_percent",
@@ -1603,11 +1724,12 @@
     "bias": 20,
     "paramSize": 0,
     "descPriority": 112,
-    "descFunc": 4,
-    "descVal": 1,
-    "descPos": "Damage to Demons",
-    "descNeg": "Damage to Demons",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr4e",
+    "descNeg": "ModStr4e",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_undeaddamage_percent",
@@ -1616,11 +1738,12 @@
     "bias": 20,
     "paramSize": 0,
     "descPriority": 108,
-    "descFunc": 4,
-    "descVal": 1,
-    "descPos": "Damage to Undead",
-    "descNeg": "Damage to Undead",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr4f",
+    "descNeg": "ModStr4f",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_demon_tohit",
@@ -1629,11 +1752,12 @@
     "bias": 128,
     "paramSize": 0,
     "descPriority": 110,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "to Attack Rating against Demons",
-    "descNeg": "to Attack Rating against Demons",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr4j",
+    "descNeg": "ModStr4j",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_undead_tohit",
@@ -1642,11 +1766,12 @@
     "bias": 128,
     "paramSize": 0,
     "descPriority": 106,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "to Attack Rating against Undead",
-    "descNeg": "to Attack Rating against Undead",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr4k",
+    "descNeg": "ModStr4k",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_throwable",
@@ -1655,11 +1780,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 5,
-    "descFunc": 3,
+    "descFunc": 19,
     "descVal": 0,
-    "descPos": "Throwable",
-    "descNeg": "Throwable",
-    "descAdditional": ""
+    "descPos": "ModStr5a",
+    "descNeg": "ModStr5a",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_elemskill",
@@ -1668,11 +1794,12 @@
     "bias": 0,
     "paramSize": 3,
     "descPriority": 157,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "to Fire Skills",
-    "descNeg": "to Fire Skills",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr3i",
+    "descNeg": "ModStr3i",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_allskills",
@@ -1681,11 +1808,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 158,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "to All Skills",
-    "descNeg": "to All Skills",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr3k",
+    "descNeg": "ModStr3k",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_attackertakeslightdamage",
@@ -1694,11 +1822,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 14,
-    "descFunc": 3,
-    "descVal": 2,
-    "descPos": "Attacker Takes Lightning Damage of",
-    "descNeg": "Attacker Takes Lightning Damage of",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr3j",
+    "descNeg": "ModStr3j",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "ironmaiden_level",
@@ -1711,7 +1840,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "lifetap_level",
@@ -1724,7 +1854,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "thorns_percent",
@@ -1737,7 +1868,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "bonearmor",
@@ -1750,7 +1882,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "bonearmormax",
@@ -1763,7 +1896,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_freeze",
@@ -1774,9 +1908,10 @@
     "descPriority": 78,
     "descFunc": 12,
     "descVal": 2,
-    "descPos": "Freezes target",
-    "descNeg": "Freezes target",
-    "descAdditional": ""
+    "descPos": "ModStr3l",
+    "descNeg": "ModStr3l",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_openwounds",
@@ -1785,11 +1920,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 83,
-    "descFunc": 2,
-    "descVal": 1,
-    "descPos": "Chance of Open Wounds",
-    "descNeg": "Chance of Open Wounds",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr3m",
+    "descNeg": "ModStr3m",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_crushingblow",
@@ -1798,11 +1934,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 87,
-    "descFunc": 2,
-    "descVal": 1,
-    "descPos": "Chance of Crushing Blow",
-    "descNeg": "Chance of Crushing Blow",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr5c",
+    "descNeg": "ModStr5c",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_kickdamage",
@@ -1811,11 +1948,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 121,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "Kick Damage",
-    "descNeg": "Kick Damage",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr5e",
+    "descNeg": "ModStr5e",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_manaafterkill",
@@ -1824,11 +1962,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 16,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "to Mana after each Kill",
-    "descNeg": "to Mana after each Kill",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr5f",
+    "descNeg": "ModStr5f",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_healafterdemonkill",
@@ -1837,11 +1976,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 15,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "Life after each Demon Kill",
-    "descNeg": "Life after each Demon Kill",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr6c",
+    "descNeg": "ModStr6c",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_extrablood",
@@ -1854,7 +1994,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_deadlystrike",
@@ -1863,11 +2004,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 85,
-    "descFunc": 2,
-    "descVal": 1,
-    "descPos": "Deadly Strike",
-    "descNeg": "Deadly Strike",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr5q",
+    "descNeg": "ModStr5q",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_absorbfire_percent",
@@ -1876,11 +2018,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 23,
-    "descFunc": 2,
-    "descVal": 2,
-    "descPos": "Fire Absorb",
-    "descNeg": "Fire Absorb",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr5g",
+    "descNeg": "ModStr5g",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_absorbfire",
@@ -1889,11 +2032,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 27,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "Fire Absorb",
-    "descNeg": "Fire Absorb",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr5h",
+    "descNeg": "ModStr5h",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_absorblight_percent",
@@ -1902,11 +2046,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 24,
-    "descFunc": 2,
-    "descVal": 2,
-    "descPos": "Lightning Absorb",
-    "descNeg": "Lightning Absorb",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr5i",
+    "descNeg": "ModStr5i",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_absorblight",
@@ -1915,11 +2060,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 29,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "Lightning Absorb",
-    "descNeg": "Lightning Absorb",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr5j",
+    "descNeg": "ModStr5j",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_absorbmagic_percent",
@@ -1928,11 +2074,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 26,
-    "descFunc": 2,
-    "descVal": 2,
-    "descPos": "Magic Absorb",
-    "descNeg": "Magic Absorb",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr5k",
+    "descNeg": "ModStr5k",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_absorbmagic",
@@ -1941,11 +2088,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 33,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "Magic Absorb",
-    "descNeg": "Magic Absorb",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr5l",
+    "descNeg": "ModStr5l",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_absorbcold_percent",
@@ -1954,11 +2102,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 25,
-    "descFunc": 2,
-    "descVal": 2,
-    "descPos": "Cold Absorb",
-    "descNeg": "Cold Absorb",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr5m",
+    "descNeg": "ModStr5m",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_absorbcold",
@@ -1967,11 +2116,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 31,
-    "descFunc": 1,
-    "descVal": 1,
-    "descPos": "Cold Absorb",
-    "descNeg": "Cold Absorb",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr5n",
+    "descNeg": "ModStr5n",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_slow",
@@ -1980,11 +2130,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 77,
-    "descFunc": 2,
-    "descVal": 2,
-    "descPos": "Slows Target by",
-    "descNeg": "Slows Target by",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr5r",
+    "descNeg": "ModStr5r",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_aura",
@@ -1995,9 +2146,10 @@
     "descPriority": 159,
     "descFunc": 16,
     "descVal": 0,
-    "descPos": "Level %d %s Aura When Equipped",
-    "descNeg": "Level %d %s Aura When Equipped",
-    "descAdditional": ""
+    "descPos": "ModitemAura",
+    "descNeg": "ModitemAura",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_indesctructible",
@@ -2006,11 +2158,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 160,
-    "descFunc": 3,
+    "descFunc": 19,
     "descVal": 0,
-    "descPos": "Indestructible",
-    "descNeg": "Indestructible",
-    "descAdditional": ""
+    "descPos": "ModStre9s",
+    "descNeg": "ModStre9s",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_cannotbefrozen",
@@ -2019,11 +2172,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 20,
-    "descFunc": 3,
+    "descFunc": 19,
     "descVal": 0,
-    "descPos": "Cannot Be Frozen",
-    "descNeg": "Cannot Be Frozen",
-    "descAdditional": ""
+    "descPos": "ModStr5z",
+    "descNeg": "ModStr5z",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_staminadrainpct",
@@ -2032,11 +2186,12 @@
     "bias": 20,
     "paramSize": 0,
     "descPriority": 49,
-    "descFunc": 2,
-    "descVal": 1,
-    "descPos": "Slower Stamina Drain",
-    "descNeg": "Slower Stamina Drain",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr6e",
+    "descNeg": "ModStr6e",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_reanimate",
@@ -2046,10 +2201,11 @@
     "paramSize": 10,
     "descPriority": 17,
     "descFunc": 23,
-    "descVal": 1,
-    "descPos": "Reanimate as:",
-    "descNeg": "Reanimate as:",
-    "descAdditional": ""
+    "descVal": 0,
+    "descPos": "Moditemreanimas",
+    "descNeg": "Moditemreanimas",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_pierce",
@@ -2058,11 +2214,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 132,
-    "descFunc": 3,
+    "descFunc": 19,
     "descVal": 0,
-    "descPos": "Piercing Attack",
-    "descNeg": "Piercing Attack",
-    "descAdditional": ""
+    "descPos": "ModStr6g",
+    "descNeg": "ModStr6g",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_magicarrow",
@@ -2071,11 +2228,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 131,
-    "descFunc": 3,
+    "descFunc": 19,
     "descVal": 0,
-    "descPos": "Fires Magic Arrows",
-    "descNeg": "Fires Magic Arrows",
-    "descAdditional": ""
+    "descPos": "ModStr6h",
+    "descNeg": "ModStr6h",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_explosivearrow",
@@ -2084,11 +2242,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 133,
-    "descFunc": 3,
+    "descFunc": 19,
     "descVal": 0,
-    "descPos": "Fires Explosive Arrows or Bolts",
-    "descNeg": "Fires Explosive Arrows or Bolts",
-    "descAdditional": ""
+    "descPos": "ModStr6i",
+    "descNeg": "ModStr6i",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_throw_mindamage",
@@ -2101,7 +2260,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_throw_maxdamage",
@@ -2114,7 +2274,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "skill_handofathena",
@@ -2127,7 +2288,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "skill_staminapercent",
@@ -2140,7 +2302,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "skill_passive_staminapercent",
@@ -2153,7 +2316,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "skill_concentration",
@@ -2166,7 +2330,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "skill_enchant",
@@ -2179,7 +2344,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "skill_pierce",
@@ -2192,7 +2358,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "skill_conviction",
@@ -2205,7 +2372,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "skill_chillingarmor",
@@ -2218,7 +2386,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "skill_frenzy",
@@ -2231,7 +2400,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "skill_decrepify",
@@ -2244,7 +2414,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "skill_armor_percent",
@@ -2257,7 +2428,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "alignment",
@@ -2270,7 +2442,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "target0",
@@ -2283,7 +2456,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "target1",
@@ -2296,7 +2470,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "goldlost",
@@ -2309,7 +2484,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "conversion_level",
@@ -2322,7 +2498,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "conversion_maxhp",
@@ -2335,7 +2512,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "unit_dooverlay",
@@ -2348,7 +2526,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "attack_vs_montype",
@@ -2358,10 +2537,11 @@
     "paramSize": 10,
     "descPriority": 108,
     "descFunc": 22,
-    "descVal": 1,
-    "descPos": "to Attack Rating versus",
-    "descNeg": "to Attack Rating versus",
-    "descAdditional": ""
+    "descVal": 0,
+    "descPos": "ModitemAttratvsM",
+    "descNeg": "ModitemAttratvsM",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "damage_vs_montype",
@@ -2371,10 +2551,11 @@
     "paramSize": 10,
     "descPriority": 106,
     "descFunc": 22,
-    "descVal": 1,
-    "descPos": "to Damage versus",
-    "descNeg": "to Damage versus",
-    "descAdditional": ""
+    "descVal": 0,
+    "descPos": "Moditemdamvsm",
+    "descNeg": "Moditemdamvsm",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "fade",
@@ -2387,7 +2568,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "armor_override_percent",
@@ -2400,13 +2582,79 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
-  null,
-  null,
-  null,
-  null,
-  null,
+  {
+    "stat": "lasthitreactframe",
+    "encode": 0,
+    "size": 0,
+    "bias": 0,
+    "paramSize": 0,
+    "descPriority": 0,
+    "descFunc": 0,
+    "descVal": 0,
+    "descPos": "",
+    "descNeg": "",
+    "descAdditional": "",
+    "display": 0
+  },
+  {
+    "stat": "create_season",
+    "encode": 0,
+    "size": 0,
+    "bias": 0,
+    "paramSize": 0,
+    "descPriority": 0,
+    "descFunc": 0,
+    "descVal": 0,
+    "descPos": "",
+    "descNeg": "",
+    "descAdditional": "",
+    "display": 0
+  },
+  {
+    "stat": "bonus_mindamage",
+    "encode": 0,
+    "size": 8,
+    "bias": 0,
+    "paramSize": 0,
+    "descPriority": 0,
+    "descFunc": 0,
+    "descVal": 0,
+    "descPos": "",
+    "descNeg": "",
+    "descAdditional": "",
+    "display": 0
+  },
+  {
+    "stat": "bonus_maxdamage",
+    "encode": 0,
+    "size": 8,
+    "bias": 0,
+    "paramSize": 0,
+    "descPriority": 0,
+    "descFunc": 0,
+    "descVal": 0,
+    "descPos": "",
+    "descNeg": "",
+    "descAdditional": "",
+    "display": 0
+  },
+  {
+    "stat": "item_pierce_cold_immunity",
+    "encode": 0,
+    "size": 10,
+    "bias": 0,
+    "paramSize": 0,
+    "descPriority": 100,
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModItemMonColdSunder",
+    "descNeg": "ModItemMonColdSunder",
+    "descAdditional": "",
+    "display": 2
+  },
   {
     "stat": "item_addskill_tab",
     "encode": 0,
@@ -2416,15 +2664,81 @@
     "descPriority": 151,
     "descFunc": 14,
     "descVal": 0,
-    "descPos": "+%d to Javelin and Spear Skills",
-    "descNeg": "+%d to Javelin and Spear Skills",
-    "descAdditional": ""
+    "descPos": "StrSklTabItem1",
+    "descNeg": "StrSklTabItem1",
+    "descAdditional": "",
+    "display": 0
   },
-  null,
-  null,
-  null,
-  null,
-  null,
+  {
+    "stat": "item_pierce_fire_immunity",
+    "encode": 0,
+    "size": 10,
+    "bias": 0,
+    "paramSize": 0,
+    "descPriority": 100,
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModItemMonFireSunder",
+    "descNeg": "ModItemMonFireSunder",
+    "descAdditional": "",
+    "display": 2
+  },
+  {
+    "stat": "item_pierce_light_immunity",
+    "encode": 0,
+    "size": 10,
+    "bias": 0,
+    "paramSize": 0,
+    "descPriority": 100,
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModItemMonLightSunder",
+    "descNeg": "ModItemMonLightSunder",
+    "descAdditional": "",
+    "display": 2
+  },
+  {
+    "stat": "item_pierce_poison_immunity",
+    "encode": 0,
+    "size": 10,
+    "bias": 0,
+    "paramSize": 0,
+    "descPriority": 100,
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModItemMonPoisonSunder",
+    "descNeg": "ModItemMonPoisonSunder",
+    "descAdditional": "",
+    "display": 2
+  },
+  {
+    "stat": "item_pierce_damage_immunity",
+    "encode": 0,
+    "size": 10,
+    "bias": 0,
+    "paramSize": 0,
+    "descPriority": 100,
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModItemMonPhysicalSunder",
+    "descNeg": "ModItemMonPhysicalSunder",
+    "descAdditional": "",
+    "display": 2
+  },
+  {
+    "stat": "item_pierce_magic_immunity",
+    "encode": 0,
+    "size": 10,
+    "bias": 0,
+    "paramSize": 0,
+    "descPriority": 100,
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModItemMonMagicSunder",
+    "descNeg": "ModItemMonMagicSunder",
+    "descAdditional": "",
+    "display": 2
+  },
   {
     "stat": "item_numsockets",
     "encode": 0,
@@ -2436,7 +2750,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_skillonattack",
@@ -2447,9 +2762,10 @@
     "descPriority": 160,
     "descFunc": 15,
     "descVal": 0,
-    "descPos": "%d%% Chance to cast level %d %s on attack",
-    "descNeg": "%d%% Chance to cast level %d %s on attack",
-    "descAdditional": ""
+    "descPos": "ItemExpansiveChancX",
+    "descNeg": "ItemExpansiveChancX",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_skillonkill",
@@ -2460,9 +2776,10 @@
     "descPriority": 160,
     "descFunc": 15,
     "descVal": 0,
-    "descPos": "%d%% Chance to cast level %d %s when you Kill an Enemy",
-    "descNeg": "%d%% Chance to cast level %d %s when you Kill an Enemy",
-    "descAdditional": ""
+    "descPos": "ModitemskonKill",
+    "descNeg": "ModitemskonKill",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_skillondeath",
@@ -2473,9 +2790,10 @@
     "descPriority": 160,
     "descFunc": 15,
     "descVal": 0,
-    "descPos": "%d%% Chance to cast level %d %s when you Die",
-    "descNeg": "%d%% Chance to cast level %d %s when you Die",
-    "descAdditional": ""
+    "descPos": "Moditemskondeath",
+    "descNeg": "Moditemskondeath",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_skillonhit",
@@ -2486,9 +2804,10 @@
     "descPriority": 160,
     "descFunc": 15,
     "descVal": 0,
-    "descPos": "%d%% Chance to cast level %d %s on striking",
-    "descNeg": "%d%% Chance to cast level %d %s on striking",
-    "descAdditional": ""
+    "descPos": "ItemExpansiveChanc1",
+    "descNeg": "ItemExpansiveChanc1",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_skillonlevelup",
@@ -2499,11 +2818,25 @@
     "descPriority": 160,
     "descFunc": 15,
     "descVal": 0,
-    "descPos": "%d%% Chance to cast level %d %s when you Level-Up",
-    "descNeg": "%d%% Chance to cast level %d %s when you Level-Up",
-    "descAdditional": ""
+    "descPos": "ModitemskonLevel",
+    "descNeg": "ModitemskonLevel",
+    "descAdditional": "",
+    "display": 2
   },
-  null,
+  {
+    "stat": "item_charge_noconsume",
+    "encode": 0,
+    "size": 7,
+    "bias": 0,
+    "paramSize": 0,
+    "descPriority": 159,
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr6k",
+    "descNeg": "ModStr6k",
+    "descAdditional": "",
+    "display": 2
+  },
   {
     "stat": "item_skillongethit",
     "encode": 2,
@@ -2513,9 +2846,10 @@
     "descPriority": 160,
     "descFunc": 15,
     "descVal": 0,
-    "descPos": "%d%% Chance to cast level %d %s when struck",
-    "descNeg": "%d%% Chance to cast level %d %s when struck",
-    "descAdditional": ""
+    "descPos": "ItemExpansiveChanc2",
+    "descNeg": "ItemExpansiveChanc2",
+    "descAdditional": "",
+    "display": 2
   },
   null,
   null,
@@ -2528,9 +2862,38 @@
     "descPriority": 1,
     "descFunc": 24,
     "descVal": 0,
-    "descPos": "(%d/%d Charges)",
-    "descNeg": "(%d/%d Charges)",
-    "descAdditional": ""
+    "descPos": "ModStre10d",
+    "descNeg": "ModStre10d",
+    "descAdditional": "",
+    "display": 0
+  },
+  {
+    "stat": "item_noconsume",
+    "encode": 0,
+    "size": 7,
+    "bias": 0,
+    "paramSize": 0,
+    "descPriority": 4,
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr6j",
+    "descNeg": "ModStr6j",
+    "descAdditional": "",
+    "display": 2
+  },
+  {
+    "stat": "passive_mastery_replenish_oncrit",
+    "encode": 0,
+    "size": 8,
+    "bias": 0,
+    "paramSize": 0,
+    "descPriority": 0,
+    "descFunc": 0,
+    "descVal": 0,
+    "descPos": "",
+    "descNeg": "",
+    "descAdditional": "",
+    "display": 0
   },
   null,
   null,
@@ -2538,9 +2901,20 @@
   null,
   null,
   null,
-  null,
-  null,
-  null,
+  {
+    "stat": "passive_mastery_attack_speed",
+    "encode": 0,
+    "size": 8,
+    "bias": 0,
+    "paramSize": 0,
+    "descPriority": 0,
+    "descFunc": 0,
+    "descVal": 0,
+    "descPos": "",
+    "descNeg": "",
+    "descAdditional": "",
+    "display": 0
+  },
   {
     "stat": "item_armor_perlevel",
     "encode": 0,
@@ -2548,11 +2922,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 72,
-    "descFunc": 6,
-    "descVal": 1,
-    "descPos": "Defense",
-    "descNeg": "Defense",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1i",
+    "descNeg": "ModStr1i",
+    "descAdditional": "(Based on Character Level)",
+    "display": 0
   },
   {
     "stat": "item_armorpercent_perlevel",
@@ -2561,11 +2936,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 73,
-    "descFunc": 8,
-    "descVal": 1,
-    "descPos": "Enhanced Defense",
-    "descNeg": "Enhanced Defense",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "Modstr2v",
+    "descNeg": "Modstr2v",
+    "descAdditional": "(Based on Character Level)",
+    "display": 0
   },
   {
     "stat": "item_hp_perlevel",
@@ -2574,11 +2950,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 57,
-    "descFunc": 6,
-    "descVal": 1,
-    "descPos": "to Life",
-    "descNeg": "to Life",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1u",
+    "descNeg": "ModStr1u",
+    "descAdditional": "(Based on Character Level)",
+    "display": 0
   },
   {
     "stat": "item_mana_perlevel",
@@ -2587,11 +2964,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 53,
-    "descFunc": 6,
-    "descVal": 1,
-    "descPos": "to Mana",
-    "descNeg": "to Mana",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1e",
+    "descNeg": "ModStr1e",
+    "descAdditional": "(Based on Character Level)",
+    "display": 0
   },
   {
     "stat": "item_maxdamage_perlevel",
@@ -2600,11 +2978,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 125,
-    "descFunc": 6,
-    "descVal": 1,
-    "descPos": "to Maximum Damage",
-    "descNeg": "to Maximum Damage",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1f",
+    "descNeg": "ModStr1f",
+    "descAdditional": "(Based on Character Level)",
+    "display": 0
   },
   {
     "stat": "item_maxdamage_percent_perlevel",
@@ -2613,11 +2992,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 128,
-    "descFunc": 8,
-    "descVal": 1,
-    "descPos": "Enhanced Maximum Damage",
-    "descNeg": "Enhanced Maximum Damage",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr2j",
+    "descNeg": "ModStr2j",
+    "descAdditional": "(Based on Character Level)",
+    "display": 0
   },
   {
     "stat": "item_strength_perlevel",
@@ -2626,11 +3006,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 66,
-    "descFunc": 6,
-    "descVal": 1,
-    "descPos": "to Strength",
-    "descNeg": "to Strength",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1a",
+    "descNeg": "ModStr1a",
+    "descAdditional": "(Based on Character Level)",
+    "display": 0
   },
   {
     "stat": "item_dexterity_perlevel",
@@ -2639,11 +3020,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 64,
-    "descFunc": 6,
-    "descVal": 1,
-    "descPos": "to Dexterity",
-    "descNeg": "to Dexterity",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1b",
+    "descNeg": "ModStr1b",
+    "descAdditional": "(Based on Character Level)",
+    "display": 0
   },
   {
     "stat": "item_energy_perlevel",
@@ -2652,11 +3034,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 60,
-    "descFunc": 6,
-    "descVal": 1,
-    "descPos": "to Energy",
-    "descNeg": "to Energy",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1d",
+    "descNeg": "ModStr1d",
+    "descAdditional": "(Based on Character Level)",
+    "display": 0
   },
   {
     "stat": "item_vitality_perlevel",
@@ -2665,11 +3048,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 62,
-    "descFunc": 6,
-    "descVal": 1,
-    "descPos": "to Vitality",
-    "descNeg": "to Vitality",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1c",
+    "descNeg": "ModStr1c",
+    "descAdditional": "(Based on Character Level)",
+    "display": 0
   },
   {
     "stat": "item_tohit_perlevel",
@@ -2678,11 +3062,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 114,
-    "descFunc": 6,
-    "descVal": 1,
-    "descPos": "to Attack Rating",
-    "descNeg": "to Attack Rating",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1h",
+    "descNeg": "ModStr1h",
+    "descAdditional": "(Based on Character Level)",
+    "display": 0
   },
   {
     "stat": "item_tohitpercent_perlevel",
@@ -2691,11 +3076,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 116,
-    "descFunc": 7,
-    "descVal": 1,
-    "descPos": "Bonus to Attack Rating",
-    "descNeg": "Bonus to Attack Rating",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr4c",
+    "descNeg": "ModStr4c",
+    "descAdditional": "(Based on Character Level)",
+    "display": 0
   },
   {
     "stat": "item_cold_damagemax_perlevel",
@@ -2704,11 +3090,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 94,
-    "descFunc": 6,
-    "descVal": 1,
-    "descPos": "to Maximum Cold Damage",
-    "descNeg": "to Maximum Cold Damage",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1s",
+    "descNeg": "ModStr1s",
+    "descAdditional": "(Based on Character Level)",
+    "display": 0
   },
   {
     "stat": "item_fire_damagemax_perlevel",
@@ -2717,11 +3104,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 100,
-    "descFunc": 6,
-    "descVal": 1,
-    "descPos": "to Maximum Fire Damage",
-    "descNeg": "to Maximum Fire Damage",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1o",
+    "descNeg": "ModStr1o",
+    "descAdditional": "(Based on Character Level)",
+    "display": 0
   },
   {
     "stat": "item_ltng_damagemax_perlevel",
@@ -2730,11 +3118,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 97,
-    "descFunc": 6,
-    "descVal": 1,
-    "descPos": "to Maximum Lightning Damage",
-    "descNeg": "to Maximum Lightning Damage",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1q",
+    "descNeg": "ModStr1q",
+    "descAdditional": "(Based on Character Level)",
+    "display": 0
   },
   {
     "stat": "item_pois_damagemax_perlevel",
@@ -2743,11 +3132,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 90,
-    "descFunc": 6,
-    "descVal": 1,
-    "descPos": "to Maximum Poison Damage",
-    "descNeg": "to Maximum Poison Damage",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr4h",
+    "descNeg": "ModStr4h",
+    "descAdditional": "(Based on Character Level)",
+    "display": 0
   },
   {
     "stat": "item_resist_cold_perlevel",
@@ -2756,11 +3146,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 39,
-    "descFunc": 7,
-    "descVal": 2,
-    "descPos": "Cold Resist",
-    "descNeg": "Cold Resist",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1k",
+    "descNeg": "ModStr1k",
+    "descAdditional": "(Based on Character Level)",
+    "display": 0
   },
   {
     "stat": "item_resist_fire_perlevel",
@@ -2769,11 +3160,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 35,
-    "descFunc": 7,
-    "descVal": 2,
-    "descPos": "Fire Resist",
-    "descNeg": "Fire Resist",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1j",
+    "descNeg": "ModStr1j",
+    "descAdditional": "(Based on Character Level)",
+    "display": 0
   },
   {
     "stat": "item_resist_ltng_perlevel",
@@ -2782,11 +3174,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 37,
-    "descFunc": 7,
-    "descVal": 2,
-    "descPos": "Lightning Resist",
-    "descNeg": "Lightning Resist",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1l",
+    "descNeg": "ModStr1l",
+    "descAdditional": "(Based on Character Level)",
+    "display": 0
   },
   {
     "stat": "item_resist_pois_perlevel",
@@ -2795,11 +3188,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 33,
-    "descFunc": 7,
-    "descVal": 2,
-    "descPos": "Poison Resist",
-    "descNeg": "Poison Resist",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1n",
+    "descNeg": "ModStr1n",
+    "descAdditional": "(Based on Character Level)",
+    "display": 0
   },
   {
     "stat": "item_absorb_cold_perlevel",
@@ -2808,11 +3202,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 32,
-    "descFunc": 6,
-    "descVal": 1,
-    "descPos": "Absorbs Cold Damage",
-    "descNeg": "Absorbs Cold Damage",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStre9p",
+    "descNeg": "ModStre9p",
+    "descAdditional": "(Based on Character Level)",
+    "display": 2
   },
   {
     "stat": "item_absorb_fire_perlevel",
@@ -2821,11 +3216,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 28,
-    "descFunc": 6,
-    "descVal": 1,
-    "descPos": "Absorbs Fire Damage",
-    "descNeg": "Absorbs Fire Damage",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStre9o",
+    "descNeg": "ModStre9o",
+    "descAdditional": "(Based on Character Level)",
+    "display": 2
   },
   {
     "stat": "item_absorb_ltng_perlevel",
@@ -2834,11 +3230,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 30,
-    "descFunc": 6,
-    "descVal": 1,
-    "descPos": "Absorbs Lightning Damage",
-    "descNeg": "Absorbs Lightning Damage",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStre9q",
+    "descNeg": "ModStre9q",
+    "descAdditional": "(Based on Character Level)",
+    "display": 2
   },
   {
     "stat": "item_absorb_pois_perlevel",
@@ -2851,7 +3248,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "item_thorns_perlevel",
@@ -2860,11 +3258,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 12,
-    "descFunc": 9,
-    "descVal": 2,
-    "descPos": "Attacker Takes Damage of",
-    "descNeg": "Attacker Takes Damage of",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1v",
+    "descNeg": "ModStr1v",
+    "descAdditional": "(Based on Character Level)",
+    "display": 0
   },
   {
     "stat": "item_find_gold_perlevel",
@@ -2873,11 +3272,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 9,
-    "descFunc": 7,
-    "descVal": 1,
-    "descPos": "Extra Gold from Monsters",
-    "descNeg": "Extra Gold from Monsters",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1w",
+    "descNeg": "ModStr1w",
+    "descAdditional": "(Based on Character Level)",
+    "display": 2
   },
   {
     "stat": "item_find_magic_perlevel",
@@ -2886,11 +3286,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 7,
-    "descFunc": 7,
-    "descVal": 1,
-    "descPos": "Better Chance of Getting Magic Items",
-    "descNeg": "Better Chance of Getting Magic Items",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr1x",
+    "descNeg": "ModStr1x",
+    "descAdditional": "(Based on Character Level)",
+    "display": 2
   },
   {
     "stat": "item_regenstamina_perlevel",
@@ -2899,11 +3300,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 47,
-    "descFunc": 8,
-    "descVal": 2,
-    "descPos": "Heal Stamina Plus",
-    "descNeg": "Heal Stamina Plus",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr3v",
+    "descNeg": "ModStr3v",
+    "descAdditional": "(Based on Character Level)",
+    "display": 2
   },
   {
     "stat": "item_stamina_perlevel",
@@ -2912,11 +3314,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 50,
-    "descFunc": 6,
-    "descVal": 1,
-    "descPos": "Maximum Stamina",
-    "descNeg": "Maximum Stamina",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr5d",
+    "descNeg": "ModStr5d",
+    "descAdditional": "(Based on Character Level)",
+    "display": 0
   },
   {
     "stat": "item_damage_demon_perlevel",
@@ -2925,11 +3328,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 111,
-    "descFunc": 8,
-    "descVal": 1,
-    "descPos": "Damage to Demons",
-    "descNeg": "Damage to Demons",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr4e",
+    "descNeg": "ModStr4e",
+    "descAdditional": "(Based on Character Level)",
+    "display": 2
   },
   {
     "stat": "item_damage_undead_perlevel",
@@ -2938,11 +3342,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 107,
-    "descFunc": 8,
-    "descVal": 1,
-    "descPos": "Damage to Undead",
-    "descNeg": "Damage to Undead",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr4f",
+    "descNeg": "ModStr4f",
+    "descAdditional": "(Based on Character Level)",
+    "display": 2
   },
   {
     "stat": "item_tohit_demon_perlevel",
@@ -2951,11 +3356,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 109,
-    "descFunc": 6,
-    "descVal": 1,
-    "descPos": "to Attack Rating against Demons",
-    "descNeg": "to Attack Rating against Demons",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr4j",
+    "descNeg": "ModStr4j",
+    "descAdditional": "(Based on Character Level)",
+    "display": 0
   },
   {
     "stat": "item_tohit_undead_perlevel",
@@ -2964,11 +3370,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 105,
-    "descFunc": 6,
-    "descVal": 1,
-    "descPos": "to Attack Rating against Undead",
-    "descNeg": "to Attack Rating against Undead",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr4k",
+    "descNeg": "ModStr4k",
+    "descAdditional": "(Based on Character Level)",
+    "display": 0
   },
   {
     "stat": "item_crushingblow_perlevel",
@@ -2977,11 +3384,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 86,
-    "descFunc": 7,
-    "descVal": 1,
-    "descPos": "Chance of Crushing Blow",
-    "descNeg": "Chance of Crushing Blow",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr5c",
+    "descNeg": "ModStr5c",
+    "descAdditional": "(Based on Character Level)",
+    "display": 2
   },
   {
     "stat": "item_openwounds_perlevel",
@@ -2990,11 +3398,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 82,
-    "descFunc": 7,
-    "descVal": 1,
-    "descPos": "Chance of Open Wounds",
-    "descNeg": "Chance of Open Wounds",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr3m",
+    "descNeg": "ModStr3m",
+    "descAdditional": "(Based on Character Level)",
+    "display": 2
   },
   {
     "stat": "item_kick_damage_perlevel",
@@ -3003,11 +3412,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 120,
-    "descFunc": 6,
-    "descVal": 1,
-    "descPos": "Kick Damage",
-    "descNeg": "Kick Damage",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr5e",
+    "descNeg": "ModStr5e",
+    "descAdditional": "(Based on Character Level)",
+    "display": 0
   },
   {
     "stat": "item_deadlystrike_perlevel",
@@ -3016,11 +3426,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 84,
-    "descFunc": 7,
-    "descVal": 1,
-    "descPos": "Deadly Strike",
-    "descNeg": "Deadly Strike",
-    "descAdditional": "(Based on Character Level)"
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModStr5q",
+    "descNeg": "ModStr5q",
+    "descAdditional": "(Based on Character Level)",
+    "display": 2
   },
   {
     "stat": "item_find_gems_perlevel",
@@ -3033,7 +3444,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_replenish_durability",
@@ -3044,9 +3456,10 @@
     "descPriority": 1,
     "descFunc": 11,
     "descVal": 0,
-    "descPos": "Repairs %d durability per second",
-    "descNeg": "Repairs %d durability per second",
-    "descAdditional": ""
+    "descPos": "ModStre9t",
+    "descNeg": "ModStre9t",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_replenish_quantity",
@@ -3055,11 +3468,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 2,
-    "descFunc": 3,
+    "descFunc": 19,
     "descVal": 0,
-    "descPos": "Replenishes quantity",
-    "descNeg": "Replenishes quantity",
-    "descAdditional": ""
+    "descPos": "ModStre9v",
+    "descNeg": "ModStre9v",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_extra_stack",
@@ -3068,11 +3482,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 4,
-    "descFunc": 3,
+    "descFunc": 19,
     "descVal": 0,
-    "descPos": "Increased Stack Size",
-    "descNeg": "Increased Stack Size",
-    "descAdditional": ""
+    "descPos": "ModStre9i",
+    "descNeg": "ModStre9i",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_find_item",
@@ -3085,7 +3500,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_slash_damage",
@@ -3098,7 +3514,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_slash_damage_percent",
@@ -3111,7 +3528,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_crush_damage",
@@ -3124,7 +3542,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_crush_damage_percent",
@@ -3137,7 +3556,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_thrust_damage",
@@ -3150,7 +3570,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_thrust_damage_percent",
@@ -3163,7 +3584,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_absorb_slash",
@@ -3176,7 +3598,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_absorb_crush",
@@ -3189,7 +3612,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_absorb_thrust",
@@ -3202,7 +3626,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_absorb_slash_percent",
@@ -3215,7 +3640,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_absorb_crush_percent",
@@ -3228,7 +3654,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_absorb_thrust_percent",
@@ -3241,7 +3668,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   null,
   null,
@@ -3287,11 +3715,12 @@
     "bias": 50,
     "paramSize": 0,
     "descPriority": 88,
-    "descFunc": 20,
-    "descVal": 1,
-    "descPos": "to Enemy Cold Resistance",
-    "descNeg": "to Enemy Cold Resistance",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "Moditemenrescoldsk",
+    "descNeg": "Moditemenrescoldsk",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_pierce_fire",
@@ -3300,11 +3729,12 @@
     "bias": 50,
     "paramSize": 0,
     "descPriority": 88,
-    "descFunc": 20,
-    "descVal": 1,
-    "descPos": "to Enemy Fire Resistance",
-    "descNeg": "to Enemy Fire Resistance",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "Moditemenresfiresk",
+    "descNeg": "Moditemenresfiresk",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_pierce_ltng",
@@ -3313,11 +3743,12 @@
     "bias": 50,
     "paramSize": 0,
     "descPriority": 88,
-    "descFunc": 20,
-    "descVal": 1,
-    "descPos": "to Enemy Lightning Resistance",
-    "descNeg": "to Enemy Lightning Resistance",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "Moditemenresltngsk",
+    "descNeg": "Moditemenresltngsk",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_pierce_pois",
@@ -3326,11 +3757,12 @@
     "bias": 50,
     "paramSize": 0,
     "descPriority": 88,
-    "descFunc": 20,
-    "descVal": 1,
-    "descPos": "to Enemy Poison Resistance",
-    "descNeg": "to Enemy Poison Resistance",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "Moditemenrespoissk",
+    "descNeg": "Moditemenrespoissk",
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_damage_vs_monster",
@@ -3343,7 +3775,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_damage_percent_vs_monster",
@@ -3356,7 +3789,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_tohit_vs_monster",
@@ -3369,7 +3803,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_tohit_percent_vs_monster",
@@ -3382,7 +3817,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_ac_vs_monster",
@@ -3395,7 +3831,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_ac_percent_vs_monster",
@@ -3408,7 +3845,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "firelength",
@@ -3421,7 +3859,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "burningmin",
@@ -3434,7 +3873,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "burningmax",
@@ -3447,7 +3887,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "progressive_damage",
@@ -3460,7 +3901,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "progressive_steal",
@@ -3473,7 +3915,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "progressive_other",
@@ -3486,7 +3929,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "progressive_fire",
@@ -3499,7 +3943,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "progressive_cold",
@@ -3512,7 +3957,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "progressive_lightning",
@@ -3525,7 +3971,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "item_extra_charges",
@@ -3538,7 +3985,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "progressive_tohit",
@@ -3551,7 +3999,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "poison_count",
@@ -3564,7 +4013,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "damage_framerate",
@@ -3577,7 +4027,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "pierce_idx",
@@ -3590,7 +4041,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "passive_fire_mastery",
@@ -3599,11 +4051,12 @@
     "bias": 50,
     "paramSize": 0,
     "descPriority": 88,
-    "descFunc": 4,
-    "descVal": 1,
-    "descPos": "to Fire Skill Damage",
-    "descNeg": "to Fire Skill Damage",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModitemdamFiresk",
+    "descNeg": "ModitemdamFiresk",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "passive_ltng_mastery",
@@ -3612,11 +4065,12 @@
     "bias": 50,
     "paramSize": 0,
     "descPriority": 88,
-    "descFunc": 4,
-    "descVal": 1,
-    "descPos": "to Lightning Skill Damage",
-    "descNeg": "to Lightning Skill Damage",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModitemdamLtngsk",
+    "descNeg": "ModitemdamLtngsk",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "passive_cold_mastery",
@@ -3625,11 +4079,12 @@
     "bias": 50,
     "paramSize": 0,
     "descPriority": 88,
-    "descFunc": 4,
-    "descVal": 1,
-    "descPos": "to Cold Skill Damage",
-    "descNeg": "to Cold Skill Damage",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModitemdamColdsk",
+    "descNeg": "ModitemdamColdsk",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "passive_pois_mastery",
@@ -3638,11 +4093,12 @@
     "bias": 50,
     "paramSize": 0,
     "descPriority": 88,
-    "descFunc": 4,
-    "descVal": 1,
-    "descPos": "to Poison Skill Damage",
-    "descNeg": "to Poison Skill Damage",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "ModitemdamPoissk",
+    "descNeg": "ModitemdamPoissk",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "passive_fire_pierce",
@@ -3651,11 +4107,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 88,
-    "descFunc": 20,
-    "descVal": 1,
-    "descPos": "to Enemy Fire Resistance",
-    "descNeg": "to Enemy Fire Resistance",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "Moditemenresfiresk",
+    "descNeg": "Moditemenresfiresk",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "passive_ltng_pierce",
@@ -3664,11 +4121,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 88,
-    "descFunc": 20,
-    "descVal": 1,
-    "descPos": "to Enemy Lightning Resistance",
-    "descNeg": "to Enemy Lightning Resistance",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "Moditemenresltngsk",
+    "descNeg": "Moditemenresltngsk",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "passive_cold_pierce",
@@ -3677,11 +4135,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 88,
-    "descFunc": 20,
-    "descVal": 1,
-    "descPos": "to Enemy Cold Resistance",
-    "descNeg": "to Enemy Cold Resistance",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "Moditemenrescoldsk",
+    "descNeg": "Moditemenrescoldsk",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "passive_pois_pierce",
@@ -3690,11 +4149,12 @@
     "bias": 0,
     "paramSize": 0,
     "descPriority": 88,
-    "descFunc": 20,
-    "descVal": 1,
-    "descPos": "to Enemy Poison Resistance",
-    "descNeg": "to Enemy Poison Resistance",
-    "descAdditional": ""
+    "descFunc": 19,
+    "descVal": 0,
+    "descPos": "Moditemenrespoissk",
+    "descNeg": "Moditemenrespoissk",
+    "descAdditional": "",
+    "display": 2
   },
   {
     "stat": "passive_critical_strike",
@@ -3707,7 +4167,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "passive_dodge",
@@ -3720,7 +4181,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "passive_avoid",
@@ -3733,7 +4195,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "passive_evade",
@@ -3746,7 +4209,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "passive_warmth",
@@ -3759,7 +4223,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "passive_mastery_melee_th",
@@ -3772,7 +4237,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "passive_mastery_melee_dmg",
@@ -3785,7 +4251,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "passive_mastery_melee_crit",
@@ -3798,7 +4265,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "passive_mastery_throw_th",
@@ -3811,7 +4279,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "passive_mastery_throw_dmg",
@@ -3824,7 +4293,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "passive_mastery_throw_crit",
@@ -3837,7 +4307,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "passive_weaponblock",
@@ -3850,7 +4321,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "passive_summon_resist",
@@ -3863,7 +4335,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "modifierlist_skill",
@@ -3876,7 +4349,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "modifierlist_level",
@@ -3889,7 +4363,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "last_sent_hp_pct",
@@ -3902,7 +4377,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "source_unit_type",
@@ -3915,7 +4391,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "source_unit_id",
@@ -3928,7 +4405,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "shortparam1",
@@ -3941,7 +4419,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "questitemdifficulty",
@@ -3954,7 +4433,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "passive_mag_mastery",
@@ -3967,7 +4447,8 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
   },
   {
     "stat": "passive_mag_pierce",
@@ -3980,6 +4461,35 @@
     "descVal": 0,
     "descPos": "",
     "descNeg": "",
-    "descAdditional": ""
+    "descAdditional": "",
+    "display": 0
+  },
+  {
+    "stat": "skill_cooldown",
+    "encode": 0,
+    "size": 0,
+    "bias": 0,
+    "paramSize": 0,
+    "descPriority": 0,
+    "descFunc": 0,
+    "descVal": 0,
+    "descPos": "",
+    "descNeg": "",
+    "descAdditional": "",
+    "display": 0
+  },
+  {
+    "stat": "skill_missile_damage_scale",
+    "encode": 0,
+    "size": 0,
+    "bias": 0,
+    "paramSize": 0,
+    "descPriority": 0,
+    "descFunc": 0,
+    "descVal": 0,
+    "descPos": "",
+    "descNeg": "",
+    "descAdditional": "",
+    "display": 0
   }
 ]

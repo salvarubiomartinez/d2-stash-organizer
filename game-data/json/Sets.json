@@ -7,8 +7,8 @@
         {
           "prop": "res-fire",
           "param": 0,
-          "min": 15,
-          "max": 15
+          "min": 25,
+          "max": 25
         }
       ],
       [],
@@ -32,6 +32,18 @@
           "param": 0,
           "min": 25,
           "max": 25
+        },
+        {
+          "prop": "att%",
+          "param": 0,
+          "min": 25,
+          "max": 25
+        },
+        {
+          "prop": "ac",
+          "param": 0,
+          "min": 50,
+          "max": 50
         }
       ]
     ]
@@ -134,6 +146,12 @@
           "param": 0,
           "min": 20,
           "max": 20
+        },
+        {
+          "prop": "pierce",
+          "param": 0,
+          "min": 24,
+          "max": 24
         }
       ],
       [],
@@ -244,6 +262,12 @@
           "param": 0,
           "min": 75,
           "max": 75
+        },
+        {
+          "prop": "manasteal",
+          "param": 0,
+          "min": 7,
+          "max": 7
         }
       ],
       [
@@ -258,10 +282,10 @@
       [],
       [
         {
-          "prop": "dmg-cold",
-          "param": 50,
-          "min": 15,
-          "max": 20
+          "prop": "dmg-cold/lvl",
+          "param": 12,
+          "min": 0,
+          "max": 0
         },
         {
           "prop": "freeze",
@@ -294,6 +318,12 @@
           "param": 0,
           "min": 75,
           "max": 75
+        },
+        {
+          "prop": "dmg-ltng/lvl",
+          "param": 16,
+          "min": 0,
+          "max": 0
         }
       ],
       [
@@ -302,6 +332,12 @@
           "param": 0,
           "min": 125,
           "max": 125
+        },
+        {
+          "prop": "nofreeze",
+          "param": 0,
+          "min": 1,
+          "max": 1
         }
       ],
       [],
@@ -344,6 +380,12 @@
           "param": 0,
           "min": 15,
           "max": 20
+        },
+        {
+          "prop": "regen-mana",
+          "param": 0,
+          "min": 16,
+          "max": 16
         }
       ],
       [
@@ -542,6 +584,18 @@
           "param": 0,
           "min": 6,
           "max": 6
+        },
+        {
+          "prop": "mana%",
+          "param": 0,
+          "min": 20,
+          "max": 20
+        },
+        {
+          "prop": "nofreeze",
+          "param": 0,
+          "min": 1,
+          "max": 1
         }
       ]
     ]
@@ -706,16 +760,10 @@
       [],
       [
         {
-          "prop": "cold-min",
-          "param": 0,
-          "min": 6,
-          "max": 6
-        },
-        {
-          "prop": "cold-max",
-          "param": 0,
-          "min": 14,
-          "max": 14
+          "prop": "dmg-cold/lvl",
+          "param": 16,
+          "min": 0,
+          "max": 0
         },
         {
           "prop": "cold-len",
@@ -740,8 +788,8 @@
         {
           "prop": "mana",
           "param": 0,
-          "min": 25,
-          "max": 25
+          "min": 50,
+          "max": 50
         }
       ],
       [
@@ -750,6 +798,12 @@
           "param": 0,
           "min": 50,
           "max": 50
+        },
+        {
+          "prop": "regen-mana",
+          "param": 0,
+          "min": 12,
+          "max": 12
         }
       ],
       [],
@@ -772,6 +826,12 @@
           "param": 0,
           "min": 25,
           "max": 25
+        },
+        {
+          "prop": "allskills",
+          "param": 0,
+          "min": 1,
+          "max": 1
         }
       ]
     ]
@@ -1352,28 +1412,27 @@
     "modifiers": [
       [
         {
-          "prop": "regen-stam",
+          "prop": "lifesteal",
           "param": 0,
-          "min": 50,
-          "max": 50
+          "min": 10,
+          "max": 10
         }
       ],
       [
         {
           "prop": "regen",
           "param": 0,
-          "min": 20,
-          "max": 20
-        }
-      ],
-      [
-        {
-          "prop": "dmg-fire",
-          "param": 0,
           "min": 30,
           "max": 30
+        },
+        {
+          "prop": "dmg-fire/lvl",
+          "param": 24,
+          "min": 0,
+          "max": 0
         }
       ],
+      [],
       [],
       [
         {
@@ -1399,6 +1458,12 @@
           "param": 0,
           "min": 5,
           "max": 5
+        },
+        {
+          "prop": "red-dmg%",
+          "param": 0,
+          "min": 24,
+          "max": 24
         }
       ]
     ]
@@ -1532,6 +1597,12 @@
           "param": 0,
           "min": 40,
           "max": 40
+        },
+        {
+          "prop": "res-pois-len",
+          "param": 0,
+          "min": 75,
+          "max": 75
         }
       ],
       [],
@@ -1555,6 +1626,18 @@
           "param": 0,
           "min": 27,
           "max": 27
+        },
+        {
+          "prop": "allskills",
+          "param": 0,
+          "min": 1,
+          "max": 1
+        },
+        {
+          "prop": "red-dmg%",
+          "param": 0,
+          "min": 16,
+          "max": 16
         }
       ]
     ]
@@ -1571,8 +1654,8 @@
         {
           "prop": "dmg-fire",
           "param": 0,
-          "min": 20,
-          "max": 20
+          "min": 200,
+          "max": 200
         },
         {
           "prop": "allskills",
@@ -1589,8 +1672,8 @@
         {
           "prop": "ac",
           "param": 0,
-          "min": 25,
-          "max": 25
+          "min": 200,
+          "max": 200
         },
         {
           "prop": "dmg-undead",
@@ -1603,6 +1686,18 @@
           "param": 0,
           "min": 200,
           "max": 200
+        },
+        {
+          "prop": "lifesteal",
+          "param": 0,
+          "min": 10,
+          "max": 10
+        },
+        {
+          "prop": "deadly",
+          "param": 0,
+          "min": 20,
+          "max": 20
         }
       ]
     ]
@@ -1617,6 +1712,12 @@
           "param": 0,
           "min": 25,
           "max": 25
+        },
+        {
+          "prop": "ac",
+          "param": 0,
+          "min": 100,
+          "max": 100
         }
       ],
       [],
@@ -1658,6 +1759,18 @@
           "param": 0,
           "min": 30,
           "max": 30
+        },
+        {
+          "prop": "hp",
+          "param": 0,
+          "min": 100,
+          "max": 100
+        },
+        {
+          "prop": "allskills",
+          "param": 0,
+          "min": 1,
+          "max": 1
         }
       ]
     ]
@@ -1672,6 +1785,12 @@
           "param": 0,
           "min": 175,
           "max": 175
+        },
+        {
+          "prop": "mag%/lvl",
+          "param": 12,
+          "min": 0,
+          "max": 0
         }
       ],
       [],
@@ -1687,8 +1806,8 @@
         {
           "prop": "regen",
           "param": 0,
-          "min": 10,
-          "max": 10
+          "min": 20,
+          "max": 20
         },
         {
           "prop": "dex",
@@ -1713,6 +1832,18 @@
           "param": 0,
           "min": 100,
           "max": 100
+        },
+        {
+          "prop": "fireskill",
+          "param": 0,
+          "min": 2,
+          "max": 2
+        },
+        {
+          "prop": "hp%",
+          "param": 0,
+          "min": 12,
+          "max": 12
         }
       ]
     ]
