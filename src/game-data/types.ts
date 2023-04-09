@@ -47,6 +47,7 @@ export interface UniqueItem {
   enabled: boolean;
   code: string;
   qlevel: number;
+  reqlevel: number;
   modifiers: ModifierRange[];
 }
 
@@ -118,6 +119,7 @@ export interface StatGroup extends StatDescription {
 
 export interface MagicAffix {
   name: string;
+  reqlevel: number;
 }
 
 export interface Skill {

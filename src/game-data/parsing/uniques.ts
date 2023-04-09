@@ -12,6 +12,7 @@ export async function uniquesToJson(skills: Skill[]) {
       enabled: line[3].trim() === "1",
       code: line[10].trim(),
       qlevel: Number(line[8]),
+      reqlevel: Number(line[9]),
       modifiers: [],
     };
     for (let i = 0; i < 12; i++) {

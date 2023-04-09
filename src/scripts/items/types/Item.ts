@@ -35,6 +35,7 @@ export interface Item {
 
   id?: number;
   level?: number;
+  reqlevel?: number;
   quality?: ItemQuality;
 
   picture?: number;
