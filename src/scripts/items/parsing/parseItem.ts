@@ -7,6 +7,7 @@ import { ItemParsingError } from "../../errors/ItemParsingError";
 import { SaveFileReader } from "../../save-file/SaveFileReader";
 import { LAST_LEGACY } from "../../character/parsing/versions";
 import { ItemsOwner } from "../../save-file/ownership";
+import { MISC } from "../../../game-data";
 
 export function parseItem(reader: SaveFileReader, owner: ItemsOwner) {
   // https://squeek502.github.io/d2itemreader/formats/d2.html
@@ -34,6 +35,10 @@ export function parseItem(reader: SaveFileReader, owner: ItemsOwner) {
       }
       throw new ItemParsingError(item, (e as Error).message);
     }
+  }
+  else 
+  {
+    item.reqlevel = Math.max(item.reqlevel || 0, MISC[item.code]?.levelReq || 0)
   }
 
   item.raw = stream.done();
