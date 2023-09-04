@@ -123,7 +123,13 @@ export function parseQuality(
     if (item.runewordId === 2691) {
       item.runewordId = 21;
     }
-    item.name = RUNEWORDS[item.runewordId].name;
+    // hardcoded runeword name 'Hustle' for weapon
+    if (item.runewordId === 2758) {
+      item.runewordId = 170;
+      item.name = 'Hustle';
+    } else {
+      item.name = RUNEWORDS[item.runewordId].name;
+    }
     read(4);
   }
 
